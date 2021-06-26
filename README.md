@@ -1,2 +1,2 @@
-# Sass_Starter
-Sass starter kit 
+# SCSS_Starter
+SCSS starter template with subfolders and @import in main.scss file. 
